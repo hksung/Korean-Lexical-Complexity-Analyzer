@@ -38,13 +38,13 @@ This package includes bundled resources used by the analyzer, including:
 - If you want to use a different Korean `stanza` model or a custom local model, you can modify the Stanza pipeline settings in the setting (both core.py and batch.py).
 
 ## Index Description
-Detailed descriptions of the indices are available in the following [doc](./Index_description_040926.pdf).
+Detailed descriptions of the indices are available in the following [doc](./doc/Index_description_040926.pdf).
+
+## Quick demo
+This is a quick [demo](https://huggingface.co/spaces/hksung/KLC-demo) - wake it up if it’s asleep.
 
 ## Note
 This package is currently in beta testing. Results may slightly change as the indices and resources continue to be refined. Please use with caution.
 
-## Quick demo
-- This is a quick [demo](https://huggingface.co/spaces/hksung/KLC-demo) - wake it up if it’s asleep.
-
 ## License
-- This project is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
+This project is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
