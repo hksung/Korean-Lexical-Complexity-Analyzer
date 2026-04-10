@@ -1,6 +1,6 @@
 # Korean lexical complexity analyzer
 
-This is a python package for Korean lexical complexity analyzer.
+A python package for Korean lexical complexity analyzer.
 
 ## Installation
 
