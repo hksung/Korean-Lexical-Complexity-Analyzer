@@ -27,9 +27,8 @@ python3 -m klca folder --input-dir path/to/texts --output results.csv
 - Use `--recursive` to include text files in subfolders. Without it, only files directly inside `--input-dir` are processed.
 
 ## Included Resources
-This package includes bundled resources used by the analyzer, including:
-
-- Reference databases for frequency, range, and association, released as an open-source dataset (korean-fineweb-edu)
+This package built on two open-source resources:
+- Reference databases (korean-fineweb-edu) for calculating rarity, range, and strength of association
 - Vocabulary grade database (National Institute of Korean Language resources), released under Korea Open Government License Type 1
 
 ## Morpheme Parsing and Tagging
