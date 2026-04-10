@@ -28,8 +28,8 @@ python3 -m klca folder --input-dir path/to/texts --output results.csv
 
 ## Included Resources
 This package built on two open-source resources:
-- Reference databases (korean-fineweb-edu) for calculating rarity, range, and strength of association
-- Vocabulary grade database (National Institute of Korean Language resources), released under Korea Open Government License Type 1
+- Reference databases (korean-fineweb-edu) for calculating rarity, range, and bigram strength of association
+- Vocabulary grade database (sourced from National Institute of Korean Language), released under Korea Open Government License Type 1
 
 ## Morpheme Parsing and Tagging
 - By default, `klca` uses the Korean `stanza` GSD model for tokenization, POS tagging, and lemmatization.
